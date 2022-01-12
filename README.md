@@ -187,8 +187,6 @@ h1{
 
 ![output1](calculations\static\img\w1.PNG)
 
-
-
 ![output2](calculations\static\img\w2.PNG)
 
 ## Result:
