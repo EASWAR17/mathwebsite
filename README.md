@@ -35,7 +35,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -180,11 +180,16 @@ h1{
 
       <p class="by"><B>Developed by : Syed Abdul Wasih H </B></p>
 </body>
-</html>-->
+</html>
+```
 
 ## OUTPUT:
 
--- include your output screenshots ---
+![output1](calculations\static\img\w1.PNG)
+
+
+
+![output2](calculations\static\img\w2.PNG)
 
 ## Result:
 
