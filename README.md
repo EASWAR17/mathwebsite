@@ -178,7 +178,7 @@ h1{
                   
         </script>     
 
-      <p class="by"><B>Developed by : Syed Abdul Wasih H </B></p>
+      <p class="by"><B>Developed by : EASWAR.J </B></p>
 </body>
 </html>
 ```
