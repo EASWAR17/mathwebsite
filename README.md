@@ -184,10 +184,14 @@ h1{
 ```
 
 ## OUTPUT:
+![w1](https://user-images.githubusercontent.com/94154683/149521999-6e64ba08-f95e-42ea-95f0-dde8c6277a9b.PNG)
 
-![output1](calculations\static\img\mat.png)
+![w2](https://user-images.githubusercontent.com/94154683/149522038-48815bc1-b432-4f29-a4f2-de8aed938aa9.PNG)
 
-![output2](calculations\static\img\math.png)
+
+
+
+
 
 ## Result:
 
