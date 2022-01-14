@@ -185,9 +185,9 @@ h1{
 
 ## OUTPUT:
 
-![output1](calculations\static\img\w1.png)
+![output1](calculations\static\img\mat.png)
 
-![output2](calculations\static\img\w2.png)
+![output2](calculations\static\img\math.png)
 
 ## Result:
 
